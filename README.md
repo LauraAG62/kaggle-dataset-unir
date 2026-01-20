@@ -2,8 +2,6 @@
 Este repositorio se distribuye bajo la licencia MIT.  
 Puedes usar, modificar y compartir el código libremente, siempre y cuando mantengas la referencia a la licencia original.  
 
-Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
 ---
 
 ## Créditos
